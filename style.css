@@ -81,7 +81,9 @@ header a:hover ,.button1:hover{
     padding: 20px 0;
     
 }
-
+.newproducts h1{
+    padding-left: 40px;
+}
 .newproducts .img-count{
     overflow: hidden;
     width: 362px;
